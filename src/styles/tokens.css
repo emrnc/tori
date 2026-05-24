@@ -1,0 +1,37 @@
+:root {
+  --bg-1: #080808;
+  --bg-2: #0f0f0f;
+  --border: #212121;
+  --text-primary: #ededed;
+  --text-secondary: #b5b5b5;
+  --active: #1f1f1f;
+  --menu-bg: #1c1c1c;
+  --menu-border: #383838;
+  --command-menu-backdrop-start: rgba(0, 0, 0, 0.12);
+  --command-menu-backdrop-end: rgba(0, 0, 0, 0.08);
+  --command-menu-shadow-strong: rgba(0, 0, 0, 0.4);
+  --command-menu-shadow-soft: rgba(0, 0, 0, 0.2);
+  --tab-bg: #181818;
+  --tab-border: #2a2a2a;
+  --color-indigo: #9eb1ff;
+  --color-green: #3dd68c;
+  --color-orange: #ffa057;
+  --color-sky: #75c7f0;
+}
+
+[data-theme="light"] {
+  --bg-1: #f5f5f5;
+  --bg-2: #fcfcfc;
+  --border: #e3e3e3;
+  --text-primary: #171717;
+  --text-secondary: #646464;
+  --active: #efefef;
+  --menu-bg: #fcfcfc;
+  --menu-border: #e8e8e8;
+  --command-menu-backdrop-start: rgba(0, 0, 0, 0.12);
+  --command-menu-backdrop-end: rgba(0, 0, 0, 0.08);
+  --command-menu-shadow-strong: rgba(0, 0, 0, 0.4);
+  --command-menu-shadow-soft: rgba(0, 0, 0, 0.2);
+  --tab-bg: #fcfcfc;
+  --tab-border: #e3e3e3;
+}
